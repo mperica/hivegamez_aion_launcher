@@ -9,7 +9,6 @@ tar -xvf archive.tar.gz
 ### Build Flatpak App
 
 ```sh
-cd archive
 flatpak-builder --user --install --force-clean build-dir com.hivegamez.HivegamezAionLauncher.yml
 ```
 
