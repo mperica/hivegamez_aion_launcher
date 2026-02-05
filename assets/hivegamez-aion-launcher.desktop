@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Utility;
+Exec=hivegamez-aion-launcher
+StartupWMClass=hivegamez-aion-launcher
+Icon=com.hivegamez.HivegamezAionLauncher
+Name=hivegamez-aion-launcher
+Terminal=false
+Type=Application
