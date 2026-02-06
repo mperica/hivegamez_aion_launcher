@@ -1,11 +1,5 @@
 # Hivegamez Aion Launcher Flatpak
 
-### Unpack Archive
-
-```sh
-tar -xvf archive.tar.gz
-```
-
 ### Build Flatpak App
 
 ```sh
